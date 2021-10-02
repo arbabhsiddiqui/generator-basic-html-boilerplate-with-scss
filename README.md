@@ -1,20 +1,18 @@
-
-
 > boilerplate for basic-html-sass workflow
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-basic-html-sass-boilerplate using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-basic-html-boilerplate-with-scss using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-basic-html-sass-boilerplate
+npm install -g generator-basic-html-boilerplate-with-scss
 ```
 
 Then generate your new project:
 
 ```bash
-yo basic-html-sass-boilerplate
+yo basic-html-boilerplate-with-scss
 ```
 
 ## Getting To Know Yeoman
