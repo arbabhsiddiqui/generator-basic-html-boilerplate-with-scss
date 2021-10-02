@@ -1,5 +1,5 @@
 {
-  "name": "generator-basic-html-sass-boilerplate",
+  "name": "basic-html-sass-boilerplate",
   "version": "1.0.0",
   "description": "basic scss boilerplate for small projects",
   "main": "index.js",

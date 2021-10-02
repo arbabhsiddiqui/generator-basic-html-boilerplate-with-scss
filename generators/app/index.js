@@ -15,6 +15,7 @@ module.exports = class extends Generator {
       this.destinationPath("index.html")
     );
     this.fs.copy(this.templatePath("scss"), this.destinationPath("scss"));
+    this.fs.copy(this.templatePath("js"), this.destinationPath("js"));
   }
 
   end() {
