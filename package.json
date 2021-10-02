@@ -1,0 +1,28 @@
+{
+  "name": "generator-basic-html-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "basic scss boilerplate for small projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbabhsiddiqui/generator-basic-html-sass-boilerplate.git"
+  },
+  "keywords": [
+    "scss boilerplate",
+    "basic boilerplate",
+    "basic html scss boilerplate",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.4.0"
+  },
+  "author": "Arbab Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arbabhsiddiqui/generator-basic-html-sass-boilerplate/issues"
+  },
+  "homepage": "https://github.com/arbabhsiddiqui/generator-basic-html-sass-boilerplate#readme"
+}
